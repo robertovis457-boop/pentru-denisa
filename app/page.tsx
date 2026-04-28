@@ -248,6 +248,13 @@ export default function Page() {
     "Te aleg pe tine cu sinceritate, răbdare și dragoste.",
     "Nu te voi părăsi pentru nimic.",
   ];
+  
+  const challenges = [
+  "Fiecare joacă pe rând și încearcă să își bată propriul record până la miezul nopții.",
+  "Cine pierde oferă un pupic când vă vedeți.",
+  "Cine câștigă primește o declarație frumoasă.",
+  "Dacă bateți amândoi recordul zilei trecute, sărbătoriți împreună cu un desert.",
+];
 
   const wheelOptions = [
     { label: "Te iubesc", text: "Denisa, te iubesc sincer, profund și foarte frumos. Ești una dintre cele mai speciale persoane din viața mea și mă bucur enorm că exiști pentru mine." },
