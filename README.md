@@ -37,3 +37,4 @@ http://localhost:3000
 Proiectul este făcut fără dependențe complicate, ca să meargă mai ușor pe Vercel.
 
 Deploy retry
+retry deploy
