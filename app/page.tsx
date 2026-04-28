@@ -248,7 +248,7 @@ export default function Page() {
     "Te aleg pe tine cu sinceritate, răbdare și dragoste.",
     "Nu te voi părăsi pentru nimic.",
   ];
-  
+
   const challenges = [
   "Fiecare joacă pe rând și încearcă să își bată propriul record până la miezul nopții.",
   "Cine pierde oferă un pupic când vă vedeți.",
